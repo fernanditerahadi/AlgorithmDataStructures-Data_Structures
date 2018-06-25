@@ -20,7 +20,7 @@
 1. [Problem: Binary tree verifier](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/2_is_bst.py)
 1. [Problem: Binary tree verifier - hard](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/4_range_sum_advance.py)
 1. [Advanced: Set with Range Sums](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/4_range_sum_advance.py)
-1. [Advanced: Rope](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/5_splay_rope_advance.py)
+1. [Advanced: Rope](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/5_splay_rope_advance.py)  
 
 
 > Note:  
