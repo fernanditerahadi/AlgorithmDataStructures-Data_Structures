@@ -23,8 +23,8 @@
 1. [Advanced: Rope](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/5_splay_rope_advance.py)
 
 
->> Note: 
->> I don't have access to submitting my assignments.
->> Solutions have not been tested on the auto grader.
->> This is for my learning purpose.
+> Note: \s\s
+> I don't have access to submitting my assignments. \s\s
+> Solutions have not been tested on the auto grader. \s\s
+> This is for my learning purpose.
 
