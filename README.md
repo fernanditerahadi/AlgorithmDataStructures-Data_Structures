@@ -22,11 +22,9 @@
 1. [Advanced: Set with Range Sums](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/4_range_sum_advance.py)
 1. [Advanced: Rope](https://github.com/vinsensiusfernandi/AlgorithmDataStructures-Data_Structures/blob/master/4_binary_search_trees/5_splay_rope_advance.py)
 
+
 > Note: 
-
 > I don't have access to submitting my assignments.
-
 > Solutions have not been tested on the auto grader.
-
 > This mainly for my learning purpose.
 
