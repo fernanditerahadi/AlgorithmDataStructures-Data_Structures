@@ -26,5 +26,5 @@
 > Note: 
 > I don't have access to submitting my assignments.
 > Solutions have not been tested on the auto grader.
-> This mainly for my learning purpose.
+> This is for my learning purpose.
 
